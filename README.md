@@ -7,7 +7,7 @@ Sacred Connections Ministry Info
 
 💡 Steps On How To Get Around Folders
 
-🏺 "SCM" Folder Has All Code For Juce Website Inside.
+🏺 "SCM" Folder Has All Code For SCM Website Inside.
 
 ✔️ Signup For Github To Interact, Upload, Comment etc.. With Project
 
@@ -25,6 +25,8 @@ Sacred Connections Ministry Info
 
 💾 JS Folder Is JavaScript Section
 
+📷 Images Folder Has Images & SVG's
+
 💃 Tests Folder is test section, or things am testing
 
 🛎️Helpful Links For Setting Up Domain & Adding Images & Files👇 🎥 Github Basics: https://youtu.be/iv8rSLsi1xo & https://youtu.be/v_1iqtOnUMg
@@ -34,4 +36,4 @@ Sacred Connections Ministry Info
 💻 DNS Point Godaddy Domain to Github Pages Tutorial: https://youtu.be/dbgEWWBvIxY
 🛎️ 👬🏽 Domain Important - at Section 5 You'll Need These Numbers in Godaddy Manage DNS: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain 🛎️
 
-💻 To Watch The Site Being Built 👉🏽 https://sacredconections.github.io/scm/
+💻 To Watch The Site Being Built 👉🏽 https://sacredconnectionsministry.com
